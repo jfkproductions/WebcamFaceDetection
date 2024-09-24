@@ -26,5 +26,6 @@ cv 2 for face detection over a webcam
 To run the application, use the following command:
 ```sh
 py camera.py
-
-![image info](Screenshot 2024-09-24 135210.png)
+```
+## Preview 
+![Alt text](https://github.com/jfkproductions/WebcamFaceDetection/blob/main/Screenshot%202024-09-24%20135210.png "Preview")
