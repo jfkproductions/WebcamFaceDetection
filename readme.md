@@ -27,4 +27,4 @@ To run the application, use the following command:
 ```sh
 py camera.py
 
-![image info](./Screenshot 2024-09-24 135210.png)
+![image info](Screenshot 2024-09-24 135210.png)
